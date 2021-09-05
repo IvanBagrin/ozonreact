@@ -1,0 +1,12 @@
+.root {
+    display: flex;
+    height: 60px;
+    width: 100%;
+    position: relative;
+}
+
+.left {
+    display: flex;
+    position: absolute;
+    right: 44px;
+}

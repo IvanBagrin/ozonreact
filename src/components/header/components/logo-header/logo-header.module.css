@@ -1,0 +1,11 @@
+.root {
+    position: relative;
+}
+
+.logo {
+    position: absolute;
+    left: 44px;
+    top: 50%;
+    transform: translateY(-40%);
+}
+

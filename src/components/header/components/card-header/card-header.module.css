@@ -1,0 +1,28 @@
+.root {
+    position: relative;
+    width: 40px;
+    height: 40px;
+    margin-top: 10px;
+}
+
+.count {
+    position: absolute;
+    width: 23px;
+    height: 16px;
+    background: #F91155;
+    border-radius: 8px;
+    top: 0;
+    right: -7px;
+    color: #FFFFFF;
+    text-align: center;
+    align-items: center;
+    line-height: 16px;
+    font-size: 12px;
+}
+
+.logo {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
