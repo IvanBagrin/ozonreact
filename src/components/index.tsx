@@ -1,2 +1,8 @@
 import Header from './header'
-export default Header;
+import PageName from "./page-name"
+
+
+export {
+    Header, 
+    PageName};
+
